@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6966cd2-3d7f-4018-9dd8-cb8b2e26a646" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+        <option value="JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2gNueykdHlcQQObMuLjbHjMFFsA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.Debug Application.executor&quot;: &quot;Debug&quot;,
+    &quot;Jest.Card.test.tsx.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.CardColor.test.tsx.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.Model.test.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.OptionsRow.test.tsx.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.OverlayEditForm.test.tsx.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.ViewModel.test.ts.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/LibraryMode/SKOT/pres&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;G:/Trash/type_app_car/node_modules/react-scripts&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.npm start.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Projects\\LibraryMode\\SKOT\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\LibraryMode\SKOT\pres" />
+      <recent name="D:\Projects\LibraryMode\SKOT\src\img" />
+      <recent name="D:\Projects\LibraryMode\SKOT\src\view\Common" />
+      <recent name="D:\Projects\LibraryMode\SKOT\src\view\Letters" />
+      <recent name="D:\Projects\LibraryMode\SKOT\src\view\Topic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\LibraryMode\SKOT\src\audio" />
+      <recent name="D:\Projects\LibraryMode\SKOT\src\view\Rating" />
+      <recent name="D:\Projects\LibraryMode\SKOT\src\view\Profile" />
+      <recent name="D:\Projects\LibraryMode\SKOT\src\img" />
+      <recent name="D:\Projects\LibraryMode\SKOT\src\view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="CardColor.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/view/CardColor.test.tsx" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Card.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/view/Card.test.tsx" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Model.test.ts" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/model/Model.test.ts" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OverlayEditForm.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/view/OverlayEditForm.test.tsx" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ViewModel.test.ts" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/viewmodel/ViewModel.test.ts" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000" useFirstLineBreakpoints="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <EXTENSION ID="com.intellij.lang.javascript.buildTools.npm.rc.StartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <EXTENSION ID="com.intellij.lang.javascript.buildTools.npm.rc.StartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="Jest.CardColor.test.tsx" />
+      <item itemvalue="Jest.Card.test.tsx" />
+      <item itemvalue="Jest.Model.test.ts" />
+      <item itemvalue="Jest.OverlayEditForm.test.tsx" />
+      <item itemvalue="Jest.ViewModel.test.ts" />
+      <item itemvalue="npm.npm start" />
+      <item itemvalue="npm.npm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.CardColor.test.tsx" />
+        <item itemvalue="Jest.Model.test.ts" />
+        <item itemvalue="Jest.ViewModel.test.ts" />
+        <item itemvalue="Jest.OverlayEditForm.test.tsx" />
+        <item itemvalue="Jest.Card.test.tsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-WS-242.20224.342" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6966cd2-3d7f-4018-9dd8-cb8b2e26a646" name="Changes" comment="" />
+      <created>1715550455557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715550455557</updated>
+      <workItem from="1715550456597" duration="3059000" />
+      <workItem from="1715608625939" duration="31547000" />
+      <workItem from="1715681849750" duration="786000" />
+      <workItem from="1715702409927" duration="940000" />
+      <workItem from="1715934364975" duration="12000" />
+      <workItem from="1717896832392" duration="8128000" />
+      <workItem from="1717989667248" duration="6836000" />
+      <workItem from="1718067594308" duration="8427000" />
+      <workItem from="1718090729170" duration="1842000" />
+      <workItem from="1718342070815" duration="8996000" />
+      <workItem from="1718374275763" duration="3205000" />
+      <workItem from="1718450694046" duration="1172000" />
+      <workItem from="1718451882457" duration="4085000" />
+      <workItem from="1718482761976" duration="11131000" />
+      <workItem from="1718500019713" duration="161000" />
+      <workItem from="1718500291357" duration="2850000" />
+      <workItem from="1718638249152" duration="8000" />
+      <workItem from="1718762360669" duration="5105000" />
+      <workItem from="1718767502881" duration="5723000" />
+      <workItem from="1718846401447" duration="12933000" />
+      <workItem from="1718862194839" duration="142000" />
+      <workItem from="1718925888356" duration="610000" />
+      <workItem from="1719023389542" duration="4191000" />
+      <workItem from="1719254412373" duration="5792000" />
+      <workItem from="1719261922299" duration="1793000" />
+      <workItem from="1719314025718" duration="5113000" />
+      <workItem from="1719353344587" duration="3721000" />
+      <workItem from="1719366907450" duration="43000" />
+      <workItem from="1719454711740" duration="6793000" />
+      <workItem from="1719670978194" duration="6619000" />
+      <workItem from="1719677641665" duration="1621000" />
+      <workItem from="1719696847934" duration="10000" />
+      <workItem from="1719696977321" duration="414000" />
+      <workItem from="1719744893453" duration="6506000" />
+      <workItem from="1719784510293" duration="7358000" />
+      <workItem from="1719908991064" duration="6429000" />
+      <workItem from="1719951398120" duration="3569000" />
+      <workItem from="1720004190945" duration="8602000" />
+      <workItem from="1720057779662" duration="23000" />
+      <workItem from="1720759733431" duration="3102000" />
+      <workItem from="1720787188692" duration="1299000" />
+      <workItem from="1720827073455" duration="3067000" />
+      <workItem from="1720865880443" duration="5613000" />
+      <workItem from="1724489159936" duration="32000" />
+      <workItem from="1724489312925" duration="226000" />
+      <workItem from="1724489555043" duration="3038000" />
+      <workItem from="1724499209881" duration="5415000" />
+      <workItem from="1724532568731" duration="1308000" />
+      <workItem from="1724534923631" duration="1863000" />
+      <workItem from="1724587831116" duration="2000" />
+      <workItem from="1724587891370" duration="2988000" />
+      <workItem from="1724597799562" duration="4472000" />
+      <workItem from="1726045729347" duration="1186000" />
+      <workItem from="1726093162183" duration="24000" />
+      <workItem from="1726942252024" duration="3420000" />
+      <workItem from="1727291627049" duration="1903000" />
+      <workItem from="1727452622474" duration="6569000" />
+      <workItem from="1727525858365" duration="514000" />
+      <workItem from="1729355363670" duration="20000" />
+      <workItem from="1731405845228" duration="157000" />
+      <workItem from="1731406306548" duration="33000" />
+      <workItem from="1731406598195" duration="177000" />
+      <workItem from="1731406863991" duration="8567000" />
+      <workItem from="1731416287478" duration="12710000" />
+      <workItem from="1731437234762" duration="109000" />
+      <workItem from="1731499825806" duration="21678000" />
+      <workItem from="1731587882445" duration="755000" />
+      <workItem from="1731595471133" duration="12950000" />
+      <workItem from="1731663885110" duration="2156000" />
+      <workItem from="1731768580863" duration="21479000" />
+      <workItem from="1731846124873" duration="2728000" />
+      <workItem from="1731941276401" duration="2058000" />
+      <workItem from="1732269665582" duration="749000" />
+      <workItem from="1732552836979" duration="6874000" />
+      <workItem from="1732810515284" duration="594000" />
+      <workItem from="1733397572399" duration="243000" />
+      <workItem from="1733604966204" duration="351000" />
+      <workItem from="1733665534124" duration="17000" />
+      <workItem from="1734786866845" duration="12505000" />
+      <workItem from="1751844533136" duration="1608000" />
+      <workItem from="1751846167749" duration="963000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/Container/Card/OverLay/OverlayEditForm.tsx</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/registration_form/RegistrationFormReset.tsx</url>
+          <line>25</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/registration_form/RegistrationFormReset.tsx</url>
+          <line>17</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/registration_form/RegistrationFormReset.tsx</url>
+          <line>26</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/notification/NotificationListItem.tsx</url>
+          <line>16</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/notification/NotificationMain.tsx</url>
+          <line>51</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/notification/NotificationMain.tsx</url>
+          <line>50</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/viewmodel/adapters/ServiceElementAdapterHotel.ts</url>
+          <line>97</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/viewmodel/adapters/ServiceElementAdapterHotel.ts</url>
+          <line>109</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/forms/primitive/NumberInput.tsx</url>
+          <line>17</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/library/ActivityInfo.tsx</url>
+          <line>39</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/library/ActivityInfo.tsx</url>
+          <line>27</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/library/ActivityInfo.tsx</url>
+          <line>28</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/library/ActivityInfo.tsx</url>
+          <line>37</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/service/service_element/ServiceElementListItem.tsx</url>
+          <line>44</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/service/service_element/ServiceElementListItem.tsx</url>
+          <line>45</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/forms/FormItemEdit.tsx</url>
+          <line>27</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/model/ModelNotify.ts</url>
+          <line>39</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/view/service/service_menu/ServiceMain.tsx</url>
+          <line>65</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="item.address" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

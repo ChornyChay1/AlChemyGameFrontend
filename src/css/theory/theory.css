@@ -1,0 +1,94 @@
+
+.book-container-theory{
+    background: url("../../img/book-open.png") no-repeat;
+    background-size: cover;
+    width: 1000px;
+    height: 700px;
+    letter-spacing: 0.3rem;
+    z-index: 1;
+    color:var(--accent-text);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    input{
+        color:var(--accent-text);
+        border-color: var(--accent-text);
+
+    }
+    input::placeholder {
+        color:var(--accent-text); /* Красный цвет, можете выбрать другой */
+        opacity: 0.7;  /* Убирает полупрозрачность */
+    }
+    label{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+        gap:10px;
+    }
+}
+.right-page-theory{
+    display: flex;
+    margin-top:5%;
+    margin-right:8%;
+    width:350px;
+    height:500px;
+    justify-items: end;
+    flex-direction: column;
+    justify-content: space-between;
+    .theory-p{
+        margin-top:100px;
+    }
+
+}
+.progress-p{
+    text-align: left;
+    margin-top:0
+}
+.progress-h2{
+    padding-bottom:0;
+}
+
+.progress-button{
+    display: flex;
+    align-self: end;
+    justify-self: end;
+    margin-top:10px;
+    margin-right:10px;
+}
+.topic-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.topic-items{
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    h4{
+        padding:10px;
+        margin:0;
+        text-align: start;
+    }
+}
+
+.adventure-item{
+    cursor: pointer;
+    text-align: start;
+}
+.adventure-detail{
+    text-align: center;
+}
+
+.left-page-theory{
+    display: flex;
+    margin-top:5%;
+    margin-left:8%;
+    width:350px;
+    height:500px;
+    justify-items: start;
+    flex-direction: column;
+    justify-content: start;
+    text-align: center;
+}

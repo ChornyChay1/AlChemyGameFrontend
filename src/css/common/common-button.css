@@ -1,0 +1,76 @@
+.button{
+  width: 400px;
+  height: 100px;
+  background: url("../../img/button-background.svg") no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  font-size: 40px;
+  letter-spacing: 0.6rem;
+  font-weight: bold;
+  text-align: center;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.book-button.green {
+
+  background: url("../../img/green-book-button.svg") no-repeat;
+  background-size: cover;
+}
+.book-button.active {
+
+  background: url("../../img/active-book-button.svg") no-repeat;
+  background-size: cover;
+}
+
+.button:hover{
+  transform: scale(1.05);
+  color: white;
+}
+
+.profile-button{
+  width: 200px;
+  height: 50px;
+  background: url("../../img/button-background-gray.svg") no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  font-size: var(--middle-text);
+  letter-spacing: 0.6rem;
+  font-weight: bold;
+  text-align: center;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-button:hover{
+  transform: scale(1.05);
+  background: url("../../img/button-background.svg") no-repeat;
+  background-size: cover;
+
+  color: white;
+}
+
+
+.book-button{
+  width: 165px;
+  height: 69px;
+  background: url("../../img/book-button.png") no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  font-size: 24px;
+  letter-spacing: 0.6rem;
+  color:var(--accent-text);
+  text-align: center;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+.book-button:hover{
+  transform: scale(1.05);
+  color: white;
+}

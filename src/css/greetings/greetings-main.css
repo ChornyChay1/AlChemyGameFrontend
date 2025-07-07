@@ -1,0 +1,55 @@
+.greetings-collumn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: auto;
+    align-items: center;
+    align-content: center;
+    justify-self: start;
+    margin-left:10%;
+    align-self:start;
+    text-align: center;
+    gap:40px;
+    h1{
+    font-size: 3rem;
+        letter-spacing: 1.5rem;
+        margin-top:10px
+}
+    p{
+        font-size: 1.5rem;
+        letter-spacing: 0.7rem;
+        font-weight: bold;
+        height: auto;
+        margin-bottom: 0;
+    }
+}
+.help{
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+    transition: 0.3ms;
+}
+.help:hover{
+    transform: scale(1.2);
+}
+
+.author{
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+}
+.greetings-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+}
+.human{
+     display: flex;
+    justify-content: end;
+    align-self: flex-end;
+    height: 600px;
+     margin-top: 30px;
+     margin-right: 300px;
+ }

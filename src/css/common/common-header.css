@@ -1,0 +1,38 @@
+.navigation{
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+  img{
+    cursor: pointer;
+  }
+  a:hover{
+    color: white;
+  }
+  button {
+    all: unset; /* Убирает все стандартные стили */
+    cursor: pointer; /* Курсор указателя */
+  }
+  button:hover{
+    color: white;
+  }
+}
+.navigation-row{
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  gap:30px;
+  align-items: center;
+}
+.navigation-exit{
+  display: flex;
+  flex-direction: row;
+}
+.audio-button{
+  transition: 0.3ms;
+}
+.audio-button:hover{
+  transform: scale(1.2);
+}

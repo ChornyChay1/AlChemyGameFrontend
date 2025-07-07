@@ -1,0 +1,26 @@
+.letter{
+    background: url("../../img/letter.png") no-repeat;
+    background-size: cover;
+    width: 270px;
+    height: 400px;
+    padding:50px;
+    display: flex;
+    flex-direction: column;
+    color: var(--accent-text);
+    font-size: var(--middle-text);
+    text-align: start;
+}
+.himera-letter{
+    letter-spacing: 0.1rem;
+}
+
+.help-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:40px;
+}
+.right-orientation-text{
+    text-align: end ;
+    padding-right:  50px;
+}

@@ -1,0 +1,9 @@
+
+.navigation-profile-row{
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  gap:5px;
+  align-items: center;
+  z-index: 1;
+}

@@ -1,0 +1,70 @@
+
+.profile-container{
+    width: 80%;
+    height: 700px;
+    letter-spacing: 0.3rem;
+    z-index: 1;
+    color:var(--accent-text);
+    display: flex;
+    justify-content: space-between;
+    margin-top:0px;
+    margin-bottom: 20px;
+
+}
+
+
+.right-side{
+    background: url("../../img/one_page_book.png") no-repeat;
+    background-size: cover;
+    display: flex;
+    margin-top:1%;
+    margin-right:8%;
+    width:380px;
+    height:539px;
+    justify-items: end;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.left-side{
+    display: flex;
+    margin-top:2%;
+    margin-left:8%;
+    width:350px;
+    height:550px;
+    justify-items: center;
+    flex-direction: column;
+    justify-content: start;
+    gap:10px;
+    align-items: center;
+
+}
+.bottle-container{
+    display: flex;
+    flex-direction: column;
+    width:80%;
+
+    height:500px;
+    justify-content: start;
+    margin-top:25px;
+    padding:55px;
+    gap:20px;
+    letter-spacing: 0.1rem;
+}
+.statistic-row{
+    display: flex;
+    flex-direction: row;
+}
+.rating-collumn{
+    color:white;
+    display: flex;
+    flex-direction: column;
+    letter-spacing: 0.4em;
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    p{
+        padding:0;
+        margin:0;
+    }
+}

@@ -1,0 +1,94 @@
+.topic-book{
+    display: flex;
+    justify-content: space-between;
+    padding:50px;
+    flex-direction: row;
+    width:800px;
+    height:700px;
+    margin-top:30px;
+    background:url("../../img/double_book.png");
+    background-size: cover;
+    position: relative;
+    z-index:1
+}.overlay-dark-large {
+     background-color: rgba(0, 0, 0, 0.6); /* Полупрозрачный черный цвет */
+     position: fixed;
+     transition: background 1s ease; /* Плавное изменение фона */
+     top: 0;
+     left: 0;
+     width: 100%;
+     z-index: 0;
+     height: 100%;
+     pointer-events: none; /* Это не позволяет затемнению перекрывать кликабельные элементы */
+ }
+.overlay-dark-large.active {
+    z-Index: 2;
+    background: rgba(0, 0, 0, 0.7); /* Темный фон */
+}
+.left-page-book{
+    padding:70px;
+    width:370px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pdf-container{
+    z-index:3;
+    width: 700px;
+
+}
+.right-page-book{
+
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:300px;
+     gap:15px;
+    height:100%;
+    h2{
+        color: var(--accent-text);
+        padding:0;
+        display:flex;
+        align-self: start;
+        justify-content: start;
+        justify-self: start;
+        margin-top:-2px;
+        margin-left:40px;
+        text-align:start;
+    }
+}
+.finish-button{
+    margin-top:20px;
+
+}
+.back-button{
+    margin-top:170px;
+}
+
+.video-content{
+    width:400px;
+    height:auto;
+    margin-left:20px;
+    border:5px solid var(--accent-text);
+}
+.adventure-text{
+    text-align:start;
+    width:100%;
+    height:100%;
+    color:var(--accent-text);
+}
+.question{
+    margin:20px;
+}
+.questions-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    margin-top:-140px;
+    width: 100%;
+    color: var(--accent-text);
+    height:100%;
+}

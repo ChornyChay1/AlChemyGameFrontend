@@ -1,0 +1,94 @@
+.overlay-dark {
+    background-color: rgba(0, 0, 0, 0.3); /* Полупрозрачный черный цвет */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 0;
+    height: 100%;
+    pointer-events: none; /* Это не позволяет затемнению перекрывать кликабельные элементы */
+}
+.book-container{
+    background: url("../../img/book-open.png") no-repeat;
+    background-size: cover;
+    width: 1000px;
+    height: 700px;
+    letter-spacing: 0.3rem;
+    z-index: 1;
+    color:var(--accent-text);
+    display: flex;
+    justify-content: space-between;
+    margin-top:-20px;
+    margin-bottom: 20px;
+    input{
+        color:var(--accent-text);
+        border-color: var(--accent-text);
+
+    }
+    input::placeholder {
+        color:var(--accent-text); /* Красный цвет, можете выбрать другой */
+        opacity: 0.7;  /* Убирает полупрозрачность */
+    }
+    label{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+        gap:10px;
+    }
+}
+.buttons-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    a:hover{
+        color: white;
+    }
+}
+.registration-form{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    margin-bottom: 60px;
+
+}
+.right-page{
+    display: flex;
+    margin-top:6%;
+    margin-right:8%;
+    width:350px;
+    height:500px;
+    justify-items: end;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.left-page{
+    display: flex;
+    margin-top:6%;
+    margin-left:8%;
+    width:350px;
+    height:500px;
+    justify-items: end;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.label{
+    text-align: center;
+}
+.funText{
+    text-align: center;
+}
+.characterName{
+    width:350px;
+    text-align: center;
+}
+.robert-image{
+    margin-left:7%;
+    text-align: center;
+}
+.himera-image{
+    margin-left:7%;
+    margin-bottom:15%;
+    text-align: center;
+}

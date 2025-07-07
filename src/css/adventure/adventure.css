@@ -1,0 +1,52 @@
+.map{
+    display: flex;
+    justify-content: center;
+    margin:auto;
+    width:600px;
+    height:500px;
+    background:url("../../img/first_map.png");
+    background-size: cover;
+    position: relative;
+    z-index:1
+}.overlay-dark-large {
+     background-color: rgba(0, 0, 0, 0.6); /* Полупрозрачный черный цвет */
+     position: fixed;
+     transition: background 1s ease; /* Плавное изменение фона */
+     top: 0;
+     left: 0;
+     width: 100%;
+     z-index: 0;
+     height: 100%;
+     pointer-events: none; /* Это не позволяет затемнению перекрывать кликабельные элементы */
+ }
+.overlay-dark-large.active {
+    z-Index: 2;
+    background: rgba(0, 0, 0, 0.7); /* Темный фон */
+}
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 0.8;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.pulsing-image {
+    animation: pulse 1.5s infinite;
+    cursor:pointer;
+    transition: 1s;
+    z-index: 44;
+
+}
+.pulsing-image:hover {
+    z-index: 44;
+    animation: none ;
+    transform:scale(1.2);
+}
