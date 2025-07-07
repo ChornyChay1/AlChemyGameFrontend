@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ChornyChay1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ChornyChay1/AlchemyEducationGame.git",
+    "accountId": "28790360-9db5-4d6b-889b-cb3c3422f17f"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,32 +49,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.Debug Application.executor&quot;: &quot;Debug&quot;,
-    &quot;Jest.Card.test.tsx.executor&quot;: &quot;Run&quot;,
-    &quot;Jest.CardColor.test.tsx.executor&quot;: &quot;Run&quot;,
-    &quot;Jest.Model.test.ts.executor&quot;: &quot;Run&quot;,
-    &quot;Jest.OptionsRow.test.tsx.executor&quot;: &quot;Run&quot;,
-    &quot;Jest.OverlayEditForm.test.tsx.executor&quot;: &quot;Run&quot;,
-    &quot;Jest.ViewModel.test.ts.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projects/LibraryMode/SKOT/pres&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs.jest.jest_package&quot;: &quot;G:/Trash/type_app_car/node_modules/react-scripts&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.npm start.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\Projects\\LibraryMode\\SKOT\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.Debug Application.executor": "Debug",
+    "Jest.Card.test.tsx.executor": "Run",
+    "Jest.CardColor.test.tsx.executor": "Run",
+    "Jest.Model.test.ts.executor": "Run",
+    "Jest.OptionsRow.test.tsx.executor": "Run",
+    "Jest.OverlayEditForm.test.tsx.executor": "Run",
+    "Jest.ViewModel.test.ts.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Projects/LibraryMode/SKOT/pres",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "G:/Trash/type_app_car/node_modules/react-scripts",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.npm start.executor": "Run",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
+    "ts.external.directory.path": "D:\\Projects\\LibraryMode\\SKOT\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\LibraryMode\SKOT\pres" />
@@ -267,7 +280,7 @@
       <workItem from="1733665534124" duration="17000" />
       <workItem from="1734786866845" duration="12505000" />
       <workItem from="1751844533136" duration="1608000" />
-      <workItem from="1751846167749" duration="963000" />
+      <workItem from="1751846167749" duration="1368000" />
     </task>
     <servers />
   </component>
