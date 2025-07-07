@@ -68,4 +68,4 @@ _(Краткий обзор игрового процесса)_
 ---
 ## Связанный репозиторий
 
-Backend : [Backend](https://github.com/ChornyChay1/AlChemyGameBackend)   
+Backend : [Backend.](https://github.com/ChornyChay1/AlChemyGameBackend)   
