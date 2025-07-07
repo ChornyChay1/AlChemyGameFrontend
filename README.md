@@ -66,3 +66,6 @@ _(Краткий обзор игрового процесса)_
 ![GIF-демо](./pres/record.gif)
 
 ---
+## Связанный репозиторий
+
+Backend : [Backend](https://github.com/ChornyChay1/AlChemyGameBackend)   
